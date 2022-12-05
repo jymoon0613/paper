@@ -1,12 +1,45 @@
+### 2022.12.05
+* restrain: 제지하다, 억제하다
+> <font size=1>To <span style="color: orange;">restrain</span> from the negative transfer between label predictions at different granularity, we first explicitly disentangle the decision space by constructing granularity-specific classification heads.</font>
+
+* compelling evidence: 강력한 증거
+> <font size=1>This provides <span style="color: orange;">compelling evidence</span> to the discovery we mentioned earlier.</font>
+
+* granularity: 세분성
+> <font size=1>Our first goal is to investigate the impact of transfer between label prediction tasks at different <span style="color: orange;">granularities</span>.</font>
+
+* undergo: (어떤 것을) 경험하다, (어떠한 과정을) 거치다
+> <font size=1>A major stream of FGVC works thus <span style="color: orange;">undergoes</span> two stages by first adopting a localisation sub-network to localise key visual cues and then a classification subnetwork to perform label prediction.</font>
+
+* resort: (어려운 상황을 해결하기 위해, 문제를 해결하기 위해) ~을 사용하다
+> <font size=1>To further encourage the disentanglement, we then <span style="color: orange;">resort</span> to the clever use of gradients to reflect our second observation.</font>
+
+* stride: 걸음, 보폭
+* surge: 급등하다, 급등
+* tackle: 다루다
+> <font size=1>Great <span style="color: orange;">strides</span> have been made over the years, starting with the conventional part-based models, to the recent <span style="color: orange;">surge</span> of deep models that either explicitly or implicitly <span style="color: orange;">tackle</span> part learning with or without strong supervision.</font>
+
+* overlook: 간과하다
+> <font size=1>It brought out a critical question that was largely <span style="color: orange;">overlooked</span> back then – that can machines match up to humans on recognising objects at fine-grained level.</font>
+
+* disentangle: (얽힌 것을) 풀다
+> <font size=1>We leverage level-specific classification heads to <span style="color: orange;">disentangle</span> coarse-level features with fine-grained ones.</font>
+
+* exacerbate: 악화시키다
+> <font size=1>Coarse-level label prediction <span style="color: orange;">exacerbates</span> fine-grained feature learning, yet fine-level feature betters the learning of coarse-level classifier.</font>
+
+* envisage: 상상하다, 생각하다
+> <font size=1>For that, we <span style="color: orange;">re-envisage</span> the traditional setting of FGVC, from single-label clas- sification, to that of top-down traversal of a pre-defined coarse-to-fine label hierarchy.</font>
+
 ### 2022.12.02
 * regime: 영역, 특정한 상황 또는 규칙
-> <font size=1>It outperforms fully supervised ImageNet models and increases robustness in small data <span style="color: orange;">regimes</span>, reducing annotation cost across mul- tiple medical imaging applications.</font>
+> <font size=1>It outperforms fully supervised ImageNet models and increases robustness in small data <span style="color: orange;">regimes</span>, reducing annotation cost across multiple medical imaging applications.</font>
 
 * synergistic effects: 시너지 효과
 > <font size=1>Existing efforts, however, omit their <span style="color: orange;">synergistic effects</span> on each other in a ternary setup.</font>
 
 * foster: 기르다, 육성하다
-> <font size=1>Can discriminative, restora- tive, and adversarial learning be seamlessly integrated into a single framework to <span style="color: orange;">foster</span> collaborative learning for deep semantic representation.</font>
+> <font size=1>Can discriminative, restorative, and adversarial learning be seamlessly integrated into a single framework to <span style="color: orange;">foster</span> collaborative learning for deep semantic representation.</font>
 
 * glean: 줍다, 수집하다
 > <font size=1>We have designed a novel self-supervised learning framework, called DiRA, by uniting discriminative learning, restorative learning, and adversarial learning in a unified manner to <span style="color: orange;">glean</span> complementary visual information from unlabeled medical im ages.</font>
