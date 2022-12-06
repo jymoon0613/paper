@@ -1,3 +1,17 @@
+### 2022.12.06
+* intractable: 매우 다루기 힘든, 고질적인
+> <font size=1>Apparently, <span style="color: orange;">intractable</span> problems can sometimes be solved when a different person looks at them.</font>
+
+* delve into: 탐구하다
+> <font size=1>The key insight lies with how we <span style="color: orange;">delve into</span> feature channels early on, as opposed to learning fine-grained part-level features on feature maps directly.</font>
+
+* salient: 현저한, 두드러지는
+> <font size=1>This design choice has a few <span style="color: orange;">salient</span> advantages over prior art.</font>
+
+* cumbersome: 번거로운, 성가신
+* error-prone: 오류가 발생하기 쉬운
+> <font size=1>This is because expert human annotations can be <span style="color: orange;">cumbersome</span> to obtain and are often <span style="color: orange;">error-prone</span>.</font>
+
 ### 2022.12.05
 * restrain: 제지하다, 억제하다
 > <font size=1>To <span style="color: orange;">restrain</span> from the negative transfer between label predictions at different granularity, we first explicitly disentangle the decision space by constructing granularity-specific classification heads.</font>
