@@ -1,3 +1,19 @@
+### 2022.12.07
+* standard in the literatures: (관련된 연구) 문헌들의 표준
+> <font size=1>All the above settings are <span style="color: orange;">standard in the literatures</span>.</font>
+
+* ad-hoc manner: (계획이나 준비 없이) 즉석으로, 임시방편으로
+> <font size=1>This differs significantly to prior art where parts are first detected, and later fused in an <span style="color: orange;">ad-hoc manner</span>.</font>
+
+* consolidated: 통합된
+> <font size=1>More specifically, we propose a <span style="color: orange;">consolidated</span> framework that accommodates part granularity learning and cross-granularity feature fusion simultaneously.</font>
+
+* be attributed to: ~의 덕분이다, ~때문이다
+> <font size=1>Success behind these models can <span style="color: orange;">be largely attributed to</span> being able to locate more discriminative local regions for downstream classification.</font>
+
+* It follows that ~: 이렇게, 결과적으로, 이후에
+> <font size=1><span style="color: orange;">It follows that</span> such locally discriminative features are collectively fused to perform final classification.</font>
+
 ### 2022.12.06
 * intractable: 매우 다루기 힘든, 고질적인
 > <font size=1>Apparently, <span style="color: orange;">intractable</span> problems can sometimes be solved when a different person looks at them.</font>
