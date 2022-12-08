@@ -1,3 +1,7 @@
+### 2022.12.08
+* exploit: (어떤 자원으로부터 이익을 얻기 위해 그 자원을) 사용하다
+> <font size=1>ACNet uses a coarse-to-fine hierarchical feature learning process to <span style="color: orange;">exploit</span> the discriminative feature for classification.</font>
+
 ### 2022.12.07
 * standard in the literatures: (관련된 연구) 문헌들의 표준
 > <font size=1>All the above settings are <span style="color: orange;">standard in the literatures</span>.</font>
