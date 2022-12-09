@@ -1,3 +1,7 @@
+### 2022.12.09
+* resemblance: 닮음, 유사함
+> <font size=1>However, fine-grained visual categorization (FGVC) poses a significant challenge mainly due to the close <span style="color: orange;">resemblance</span> between subcategories.</font>
+
 ### 2022.12.08
 * exploit: (어떤 자원으로부터 이익을 얻기 위해 그 자원을) 사용하다
 > <font size=1>ACNet uses a coarse-to-fine hierarchical feature learning process to <span style="color: orange;">exploit</span> the discriminative feature for classification.</font>
