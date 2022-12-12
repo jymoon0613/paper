@@ -1,3 +1,7 @@
+### 2022.12.12
+* notwithstanding: 그럼에도 불구하고
+> <font size=1>Accuracy <span style="color: orange;">notwithstanding</span>, we would like for posenormalized representations to be human-interpretable, unlike prior black-box representations.</font>
+
 ### 2022.12.09
 * resemblance: 닮음, 유사함
 > <font size=1>However, fine-grained visual categorization (FGVC) poses a significant challenge mainly due to the close <span style="color: orange;">resemblance</span> between subcategories.</font>
