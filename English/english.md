@@ -1,3 +1,13 @@
+### 2022.12.13
+* In the following: 다음에, 이어서
+> <font size=1><span style="color: orange;">In the following</span>, we mainly summarize and discuss those related works.</font>
+
+* it is worth mentioning that: ~은 언급할 가치가 있다, 언급할 필요가 있다
+> <font size=1>Additionally, <span style="color: orange;">it is worth mentioning that</span> one can easily embed API into any CNN backbones for fine-grained classification, and flexibly unload it for single-input test images without loss of generalization capacity.</font>
+
+* progressive: 점진적인
+> <font size=1>More specifically, API can effectively recognize two finegrained images, by a <span style="color: orange;">progressive</span> comparison procedure like human beings.</font>
+
 ### 2022.12.12
 * notwithstanding: 그럼에도 불구하고
 > <font size=1>Accuracy <span style="color: orange;">notwithstanding</span>, we would like for posenormalized representations to be human-interpretable, unlike prior black-box representations.</font>
