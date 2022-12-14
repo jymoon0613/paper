@@ -1,3 +1,7 @@
+### 2022.12.14
+* aggravate: 악화시키다
+> <font size=1>It leads to the problem of discriminative region diffusion (DRD) in WFGIR, which <span style="color: orange;">aggravates</span> the difficulty of discriminative region localization.</font>
+
 ### 2022.12.13
 * In the following: 다음에, 이어서
 > <font size=1><span style="color: orange;">In the following</span>, we mainly summarize and discuss those related works.</font>
