@@ -1,3 +1,7 @@
+### 2022.12.15
+* innate: 타고난
+> <font size=1>Vision Transformer model is perfectly suited here with its <span style="color: orange;">innate</span> multi-head attention mechanism.</font>
+
 ### 2022.12.14
 * aggravate: 악화시키다
 > <font size=1>It leads to the problem of discriminative region diffusion (DRD) in WFGIR, which <span style="color: orange;">aggravates</span> the difficulty of discriminative region localization.</font>
