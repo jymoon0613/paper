@@ -1,3 +1,10 @@
+### 2022.12.16
+* forego: 포기하다
+> <font size=1>But to avoid using low-level features SSD <span style="color: orange;">foregoes</span> reusing already computed layers.</font>
+
+* vastly: 엄청나게
+> <font size=1>Recognizing objects at <span style="color: orange;">vastly</span> different scales is a fundamental challenge in computer vision.</font>
+
 ### 2022.12.15
 * innate: 타고난
 > <font size=1>Vision Transformer model is perfectly suited here with its <span style="color: orange;">innate</span> multi-head attention mechanism.</font>
