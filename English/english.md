@@ -1,3 +1,10 @@
+### 2022.12.18
+* shortcut: 지름길, 쉬운 방법
+> <font size=1>Neural nets may exploit this <span style="color: orange;">shortcut</span> to solve the predictive task.</font>
+
+* lag behind: 뒤처지다, 더디다
+> <font size=1>But supervised pre-training is still dominant in computer vision, where unsupervised methods generally <span style="color: orange;">lag behind</span>.</font>
+
 ### 2022.12.16
 * forego: 포기하다
 > <font size=1>But to avoid using low-level features SSD <span style="color: orange;">foregoes</span> reusing already computed layers.</font>
