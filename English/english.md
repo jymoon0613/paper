@@ -1,3 +1,7 @@
+### 2022.12.20
+* alleviate: 완화하다
+> <font size=1>The problem is <span style="color: orange;">alleviated</span> by InPS, which focuses on attended regions swapping, thus reducing interference from the background.</font>
+
 ### 2022.12.18
 * shortcut: 지름길, 쉬운 방법
 > <font size=1>Neural nets may exploit this <span style="color: orange;">shortcut</span> to solve the predictive task.</font>
