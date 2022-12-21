@@ -1,3 +1,13 @@
+### 2022.12.21
+* conjecture: 추측하다, 어림짐작하다
+> <font size=1>We <span style="color: orange;">conjecture</span> that the deep plain nets may have exponentially low convergence rates, which impact the reducing of the training error.</font>
+> 
+* enrich: 풍부하게 하다
+> <font size=1>Deep networks naturally integrate low/mid/highlevel features and classifiers in an end-to-end multilayer fashion, and the “levels” of features can be <span style="color: orange;">enriched</span> by the number of stacked layers (depth).</font>
+
+* breakthrough: 돌파구, 획기적인 발전
+> <font size=1>Deep convolutional neural networks have led to a series of <span style="color: orange;">breakthroughs</span> for image classification.</font>
+
 ### 2022.12.20
 * alleviate: 완화하다
 > <font size=1>The problem is <span style="color: orange;">alleviated</span> by InPS, which focuses on attended regions swapping, thus reducing interference from the background.</font>
