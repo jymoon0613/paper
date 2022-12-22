@@ -1,7 +1,11 @@
+### 2022.12.22
+* feasible: 실행할 수 있는, 실현 가능한, 가능한
+> <font size=1>To this end, we fix other parameters of the architecture, and steadily increase the depth of the network by adding more convolutional layers, which is <span style="color: orange;">feasible</span> due to the use of very small (3×3) convolution filters in all layers.</font>
+
 ### 2022.12.21
 * conjecture: 추측하다, 어림짐작하다
 > <font size=1>We <span style="color: orange;">conjecture</span> that the deep plain nets may have exponentially low convergence rates, which impact the reducing of the training error.</font>
-> 
+
 * enrich: 풍부하게 하다
 > <font size=1>Deep networks naturally integrate low/mid/highlevel features and classifiers in an end-to-end multilayer fashion, and the “levels” of features can be <span style="color: orange;">enriched</span> by the number of stacked layers (depth).</font>
 
