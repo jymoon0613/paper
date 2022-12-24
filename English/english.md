@@ -1,3 +1,8 @@
+### 2022.12.24
+* plateau: 정체되다, 안정 상태에 도달하다
+* canonical: 표준의
+> <font size=1>Object detection performance, as measured on the <span style="color: orange;">canonical</span> PASCAL VOC dataset, has <span style="color: orange;">plateaued</span> in the last few years.</font>
+
 ### 2022.12.23
 * degrade: 저하시키다
 > <font size=1>Removing position embedding of our model does not <span style="color: orange;">degrade</span> the performance.</font>
