@@ -1,3 +1,7 @@
+### 2022.12.30
+* inevitable: 불가피한
+> <font size=1>However, since the embedding space is of high dimension and NN search is to be performed there, the hubness problem is <span style="color: orange;">inevitable</span>.</font>
+
 ### 2022.12.24
 * plateau: 정체되다, 안정 상태에 도달하다
 * canonical: 표준의
