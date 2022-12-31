@@ -1,3 +1,10 @@
+### 2022.12.31
+* graft: 접목시키다
+> <font size=1>To get the best of both worlds, in this paper, we propose a hybrid GZSL framework, <span style="color: orange;">grafting</span> an embedding model on top of a feature generation model.</font>
+
+* suboptimal: 차선책, 최적이 아닌
+> <font size=1>We conjecture that the original feature space, far from the semantic information and thus lack of discriminative ability, is <span style="color: orange;">suboptimal</span> for GZSL classification.</font>
+
 ### 2022.12.30
 * inevitable: 불가피한
 > <font size=1>However, since the embedding space is of high dimension and NN search is to be performed there, the hubness problem is <span style="color: orange;">inevitable</span>.</font>
