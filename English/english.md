@@ -1,3 +1,7 @@
+### 2023.01.03
+* compatible: 호환가능한, 양립할 수 있는
+> <font size=1>The proposed two types of cross-attention are easy-to-implement and <span style="color: orange;">compatible</span> with self-attention learning.</font>
+
 ### 2022.12.31
 * graft: 접목시키다
 > <font size=1>To get the best of both worlds, in this paper, we propose a hybrid GZSL framework, <span style="color: orange;">grafting</span> an embedding model on top of a feature generation model.</font>
