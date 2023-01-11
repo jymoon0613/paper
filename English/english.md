@@ -1,3 +1,7 @@
+### 2023.01.11
+* without bells and whistles: (멋으로 덧붙이는 거추장스러운) 부가적인 모듈 없이
+> <font size=1><span style="color: orange;">Without bells and whistles</span>, Mask R-CNN surpasses all previous state-of-the-art single-model results on the COCO instance segmentation task, including the heavilyengineered entries from the 2016 competition winner.</font>
+
 ### 2023.01.03
 * compatible: 호환가능한, 양립할 수 있는
 > <font size=1>The proposed two types of cross-attention are easy-to-implement and <span style="color: orange;">compatible</span> with self-attention learning.</font>
