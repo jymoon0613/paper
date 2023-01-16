@@ -1,3 +1,7 @@
+### 2023.01.16
+* counter-intuitive: 직관적이지 않은, 일반적인 생각과는 다른
+> <font size=1>A possibly <span style="color: orange;">counter-intuitive</span> effect of this dense connectivity pattern is that it requires fewer parameters than traditional convolutional networks, as there is no need to relearn redundant feature-maps.</font>
+
 ### 2023.01.11
 * without bells and whistles: (멋으로 덧붙이는 거추장스러운) 부가적인 모듈 없이
 > <font size=1><span style="color: orange;">Without bells and whistles</span>, Mask R-CNN surpasses all previous state-of-the-art single-model results on the COCO instance segmentation task, including the heavilyengineered entries from the 2016 competition winner.</font>
