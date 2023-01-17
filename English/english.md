@@ -153,7 +153,7 @@
 > <font size=1>Coarse-level label prediction <span style="color: orange;">exacerbates</span> fine-grained feature learning, yet fine-level feature betters the learning of coarse-level classifier.</font>
 
 * envisage: 상상하다, 생각하다
-> <font size=1>For that, we <span style="color: orange;">re-envisage</span> the traditional setting of FGVC, from single-label clas- sification, to that of top-down traversal of a pre-defined coarse-to-fine label hierarchy.</font>
+> <font size=1>For that, we <span style="color: orange;">re-envisage</span> the traditional setting of FGVC, from single-label classification, to that of top-down traversal of a pre-defined coarse-to-fine label hierarchy.</font>
 
 ### 2022.12.02
 * regime: 영역, 특정한 상황 또는 규칙
