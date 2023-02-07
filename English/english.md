@@ -1,3 +1,7 @@
+### 2023.02.07
+* degenerated: 퇴화된, 변질된, 뒤떨어지는
+> <font size=1>However, directly aligning the embeddings usually causes <span style="color: orange;">degenerated</span> solutions.</font>
+
 ### 2023.01.16
 * counter-intuitive: 직관적이지 않은, 일반적인 생각과는 다른
 > <font size=1>A possibly <span style="color: orange;">counter-intuitive</span> effect of this dense connectivity pattern is that it requires fewer parameters than traditional convolutional networks, as there is no need to relearn redundant feature-maps.</font>
