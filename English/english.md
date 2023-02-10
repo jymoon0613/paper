@@ -1,3 +1,7 @@
+### 2023.02.10
+* in line with: ~과 일치하는, ~에 맞춰
+> <font size=1>This is <span style="color: orange;">in line with</span> prior work, who also observed improved performance with such an auxiliary objective.</font>
+
 ### 2023.02.07
 * degenerated: 퇴화된, 변질된, 뒤떨어지는
 > <font size=1>However, directly aligning the embeddings usually causes <span style="color: orange;">degenerated</span> solutions.</font>
