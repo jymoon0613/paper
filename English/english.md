@@ -1,3 +1,7 @@
+### 2023.02.14
+* intriguingly: 흥미롭게도, 신기하게도
+> <font size=1><span style="color: orange;">Intriguingly</span>, Barlow Twins strongly benefits from the use of very high-dimensional embeddings.</font>
+
 ### 2023.02.10
 * in line with: ~과 일치하는, ~에 맞춰
 > <font size=1>This is <span style="color: orange;">in line with</span> prior work, who also observed improved performance with such an auxiliary objective.</font>
