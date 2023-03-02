@@ -1,3 +1,7 @@
+### 2023.03.02
+* discrepancy: (같아야 하는 두 것 사이의) 불일치
+> <font size=1>There is a growing <span style="color: orange;">discrepancy</span> in computer vision between large-scale models that achieve state-of-the-art performance and models that are affordable in practical applications.</font>
+
 ### 2023.02.14
 * intriguingly: 흥미롭게도, 신기하게도
 > <font size=1><span style="color: orange;">Intriguingly</span>, Barlow Twins strongly benefits from the use of very high-dimensional embeddings.</font>
