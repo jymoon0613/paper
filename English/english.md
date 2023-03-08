@@ -1,3 +1,7 @@
+### 2023.03.08
+* versatile: 변하기 쉬운, 다목적, 다재다능한
+> <font size=1>By incorporating the pyramid structure from CNNs, we present the Pyramid Vision Transformer (PVT), which can be used as a <span style="color: orange;">versatile</span> backbone for many computer vision tasks, broadening the scope and impact of ViT.</font>
+
 ### 2023.03.02
 * discrepancy: (같아야 하는 두 것 사이의) 불일치
 > <font size=1>There is a growing <span style="color: orange;">discrepancy</span> in computer vision between large-scale models that achieve state-of-the-art performance and models that are affordable in practical applications.</font>
