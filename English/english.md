@@ -1,3 +1,7 @@
+### 2023.03.10
+* coherent: 응집된, 밀착된, 일관된
+> <font size=1>Our key observation is that features from a convolutional network can be used to group pixels into a set of visually <span style="color: orange;">coherent</span> regions, from which a subset of discriminative segments can be selected for recognition.</font>
+
 ### 2023.03.08
 * versatile: 변하기 쉬운, 다목적, 다재다능한
 > <font size=1>By incorporating the pyramid structure from CNNs, we present the Pyramid Vision Transformer (PVT), which can be used as a <span style="color: orange;">versatile</span> backbone for many computer vision tasks, broadening the scope and impact of ViT.</font>
