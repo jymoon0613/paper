@@ -1,3 +1,7 @@
+### 2023.03.14
+* impede: 방해하다
+> <font size=1>To achieve this result, we identify class imbalance during training as the main obstacle <span style="color: orange;">impeding</span> one-stage detector from achieving state-of-the-art accuracy and propose a new loss function that eliminates this barrier.</font>
+
 ### 2023.03.10
 * coherent: 응집된, 밀착된, 일관된
 > <font size=1>Our key observation is that features from a convolutional network can be used to group pixels into a set of visually <span style="color: orange;">coherent</span> regions, from which a subset of discriminative segments can be selected for recognition.</font>
