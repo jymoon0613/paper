@@ -1,3 +1,7 @@
+### 2023.03.24
+* in short: 간단히 말해서, 요컨대
+> <font size=1><span style="color: orange;">In short</span>, CNNs are inherently limited to model large, unknown transformations.</font>
+
 ### 2023.03.14
 * impede: 방해하다
 > <font size=1>To achieve this result, we identify class imbalance during training as the main obstacle <span style="color: orange;">impeding</span> one-stage detector from achieving state-of-the-art accuracy and propose a new loss function that eliminates this barrier.</font>
