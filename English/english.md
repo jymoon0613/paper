@@ -1,3 +1,7 @@
+### 2023.04.04
+* on-the-fly: 즉시, 즉석에서, 그때그때
+> <font size=1>Optimized jointly with a transformer backbone in an end-to-end manner, a light-weight decision network is attached to the backbone to produce decisions <span style="color: orange;">on-the-fly</span>.</font>
+
 ### 2023.03.24
 * in short: 간단히 말해서, 요컨대
 > <font size=1><span style="color: orange;">In short</span>, CNNs are inherently limited to model large, unknown transformations.</font>
