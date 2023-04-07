@@ -1,3 +1,7 @@
+### 2023.04.07
+* agnostic: 세부 정보를 알지 않거나 요구하지 않고 작동하는
+> <font size=1>On the other hand, the sparse attention adopted in PVT or Swin Transformer is data <span style="color: orange;">agnostic</span> and may limit the ability to model long range relations.</font>
+
 ### 2023.04.04
 * on-the-fly: 즉시, 즉석에서, 그때그때
 > <font size=1>Optimized jointly with a transformer backbone in an end-to-end manner, a light-weight decision network is attached to the backbone to produce decisions <span style="color: orange;">on-the-fly</span>.</font>
