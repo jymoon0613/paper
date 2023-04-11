@@ -1,3 +1,7 @@
+### 2023.04.11
+* as a remedy: 해결책으로
+> <font size=1><span style="color: orange;">As a remedy</span>, we introduce a distributional prior to regularize halting scores such that tokens are expected to exit at a target depth on average, however, we still allow per-image variations.</font>
+
 ### 2023.04.07
 * agnostic: 세부 정보를 알지 않거나 요구하지 않고 작동하는
 > <font size=1>On the other hand, the sparse attention adopted in PVT or Swin Transformer is data <span style="color: orange;">agnostic</span> and may limit the ability to model long range relations.</font>
