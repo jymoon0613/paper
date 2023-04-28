@@ -1,3 +1,7 @@
+### 2023.04.28
+* decouple: 분리하다
+> <font size=1>Recent studies have shown that directly training the rebalancing strategy would degrade the performance of representation extraction, so some multistage training methods <span style="color: orange;">decouple</span> the training of representation learning and classifier for long-tail recognition.</font>
+
 ### 2023.04.11
 * as a remedy: 해결책으로
 > <font size=1><span style="color: orange;">As a remedy</span>, we introduce a distributional prior to regularize halting scores such that tokens are expected to exit at a target depth on average, however, we still allow per-image variations.</font>
