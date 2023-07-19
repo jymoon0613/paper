@@ -19,8 +19,8 @@ Repository for Daily Paper Review
     17.Augmentation : 3
     18.Transfer Learning : 1
     19.Long-Tailed Recognition : 1
-    20.Point Cloud : 2
+    20.Point Cloud : 3
     21.Human Pose Estimation : 3
     22.Visual Question Answering : 1
 
-Total 196 papers!
+Total 197 papers!
