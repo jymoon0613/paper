@@ -1,3 +1,11 @@
+
+### 2023.07.19
+* commence: 시작하다
+> <font size=1>The process typically <span style="color: orange;">commences</span> with a training set consisting of all object examples and a small, random set of background examples.</font>
+
+* odd: 이상한, 기대와는 다른
+> <font size=1>It may seem <span style="color: orange;">odd</span> then that the current state-of-the-art object detectors, embodied by Fast R-CNN and its descendants, do not use bootstrapping.</font>
+
 ### 2023.04.28
 * decouple: 분리하다
 > <font size=1>Recent studies have shown that directly training the rebalancing strategy would degrade the performance of representation extraction, so some multistage training methods <span style="color: orange;">decouple</span> the training of representation learning and classifier for long-tail recognition.</font>

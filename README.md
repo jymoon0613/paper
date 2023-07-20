@@ -6,7 +6,7 @@ Repository for Daily Paper Review
     04.Fine-Grained Visual Recognition : 23
     05.Self-Supervised Learning : 34
     06.Few-Shot Learning : 2
-    07.Zero-Shot Learning : 3
+    07.Zero-Shot Learning : 4
     08.Generative Adversarial Networks : 11
     09.Optimization and Normalization : 2
     10.Knowledge Distillation : 2
@@ -23,4 +23,4 @@ Repository for Daily Paper Review
     21.Human Pose Estimation : 3
     22.Visual Question Answering : 1
 
-Total 197 papers!
+Total 198 papers!
