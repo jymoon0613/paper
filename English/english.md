@@ -1,3 +1,6 @@
+### 2023.07.26
+* compromise: 타협하다, 절충하다
+> <font size=1>Increasing dilation rates enlarges the effective receptive field by emphasizing large objects, thus <span style="color: orange;">compromising</span> the performance of small objects.</font>
 
 ### 2023.07.19
 * commence: 시작하다
