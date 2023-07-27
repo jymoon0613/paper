@@ -1,3 +1,7 @@
+### 2023.07.27
+* deter: 저지하다, 억제하다
+> <font size=1>The large model sizes and expensive computation costs ***deter*** their deployment in many real-world applications such as robotics and self-driving cars where model size and latency are highly constrained.</font>  
+
 ### 2023.07.26
 * compromise: 타협하다, 절충하다
 > <font size=1>Increasing dilation rates enlarges the effective receptive field by emphasizing large objects, thus ***compromising*** the performance of small objects.</font>  

@@ -2,7 +2,7 @@
 
     01.Recognition : 55
     02.Detection : 14
-    03.Segmentation : 19
+    03.Segmentation : 20
     04.Fine-Grained Visual Recognition : 23
     05.Self-Supervised Learning : 34
     06.Few-Shot Learning : 2
@@ -23,4 +23,4 @@
     21.Human Pose Estimation : 3
     22.Visual Question Answering : 1
 
-🔥 Total 202 papers! (2023.07.26)
+🔥 Total 203 papers! (2023.07.27)
