@@ -1,3 +1,7 @@
+### 2023.08.01
+* cluttered: 어수선한, 어지러운
+> <font size=1>We propose a new task, UOAIS, to detect categoryagnostic visible masks, amodal masks, and occlusion of arbitrary object instances in a ***cluttered*** environment.</font>  
+
 ### 2023.07.27
 * deter: 저지하다, 억제하다
 > <font size=1>The large model sizes and expensive computation costs ***deter*** their deployment in many real-world applications such as robotics and self-driving cars where model size and latency are highly constrained.</font>  
