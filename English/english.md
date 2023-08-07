@@ -1,3 +1,7 @@
+### 2023.08.04
+* disparate: 다른, 이질적인
+> <font size=1>For instance, many ***disparate*** object categories might share high-level structures (such as the limbs of animals and robots) and detecting such structures might hint towards the presence of objects.</font>  
+
 ### 2023.08.01
 * cluttered: 어수선한, 어지러운
 > <font size=1>We propose a new task, UOAIS, to detect categoryagnostic visible masks, amodal masks, and occlusion of arbitrary object instances in a ***cluttered*** environment.</font>  
