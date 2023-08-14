@@ -1,7 +1,7 @@
 ⭐ Repository for Daily Paper Review
 
     01.Recognition : 55
-    02.Detection : 24
+    02.Detection : 25
     03.Segmentation : 21
     04.Fine-Grained Visual Recognition : 23
     05.Self-Supervised Learning : 34
@@ -23,4 +23,4 @@
     21.Human Pose Estimation : 3
     22.Visual Question Answering : 1
 
-🔥 Total 214 papers! (2023.08.11)
+🔥 Total 215 papers! (2023.08.14)
