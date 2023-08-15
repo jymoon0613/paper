@@ -1,3 +1,7 @@
+### 2023.08.15
+* prosperity: 번영
+> <font size=1>The ***prosperity*** of the Convolutional Neural Networks (CNN) comes from its rich representation capacity and powerful generalization ability in image recognition, which is proved in challenging ImageNet classification task.</font>  
+
 ### 2023.08.09
 * cascade: 단계적인, 위에서 아래로 내려오는, (일방적인) 흐름/전달
 > <font size=1>This approach can be seen as a two-stage ***cascade***: First, selection of a reduced set of promising and class-independent hypotheses and second, a class-specific classification of each hypothesis.</font>  
