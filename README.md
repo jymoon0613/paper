@@ -1,4 +1,12 @@
-# ⭐ Repository for Daily Paper Review
+# Daily Paper Review
+
+⭐ This is the repository for daily paper review.
+
+The reviews were written in Korean.
+
+*"There is no magic to achievement. It's really about hard work, choices, and persistence"* - Michelle Obama -
+
+I reviewed the following topics:
 
     01.Recognition : 55
     02.Detection : 35
