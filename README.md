@@ -1,4 +1,4 @@
-⭐ Repository for Daily Paper Review
+# ⭐ Repository for Daily Paper Review
 
     01.Recognition : 55
     02.Detection : 35
@@ -23,4 +23,4 @@
     21.Human Pose Estimation : 3
     22.Visual Question Answering : 1
 
-🔥 Total 225 papers! (2023.08.28)
+🔥 Total 225 papers ! (2023.08.28)
