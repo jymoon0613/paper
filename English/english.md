@@ -1,3 +1,7 @@
+### 2023.09.04
+* undermine: 약화시키다, 훼손하다
+> <font size=1>They believe that aligning the source domain and the target domain globally leads to negative transfer of information and ***undermines*** the performance of the model in the originally well-aligned regions.</font>  
+
 ### 2023.08.15
 * prosperity: 번영
 > <font size=1>The ***prosperity*** of the Convolutional Neural Networks (CNN) comes from its rich representation capacity and powerful generalization ability in image recognition, which is proved in challenging ImageNet classification task.</font>  
