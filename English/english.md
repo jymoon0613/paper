@@ -1,3 +1,7 @@
+### 2023.09.07
+* impair: 손상시키다
+> <font size=1>Nevertheless, shallow features have less semantic information, which may ***impair*** the performance of small object detection.</font>  
+
 ### 2023.09.04
 * undermine: 약화시키다, 훼손하다
 > <font size=1>They believe that aligning the source domain and the target domain globally leads to negative transfer of information and ***undermines*** the performance of the model in the originally well-aligned regions.</font>  
