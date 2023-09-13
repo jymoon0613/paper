@@ -9,7 +9,7 @@ The reviews were written in Korean.
 I reviewed the following topics:
 
     01.Recognition : 55
-    02.Detection : 46
+    02.Detection : 47
     03.Segmentation : 21
     04.Fine-Grained Visual Recognition : 23
     05.Self-Supervised Learning : 34
@@ -31,4 +31,4 @@ I reviewed the following topics:
     21.Human Pose Estimation : 3
     22.Visual Question Answering : 1
 
-🔥 Total 236 papers ! (2023.09.12)
+🔥 Total 237 papers ! (2023.09.13)
