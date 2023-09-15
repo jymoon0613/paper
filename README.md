@@ -9,7 +9,7 @@ The reviews were written in Korean.
 I reviewed the following topics:
 
     01.Recognition : 55
-    02.Detection : 48
+    02.Detection : 47
     03.Segmentation : 21
     04.Fine-Grained Visual Recognition : 23
     05.Self-Supervised Learning : 34
@@ -22,7 +22,7 @@ I reviewed the following topics:
     12.Weakly-Supervised Learning : 3
     13.Facial Expression Recognition : 12
     14.Semi-Supervised Learning : 1
-    15.Domain Adaptation : 1
+    15.Domain Adaptation : 3
     16.Language Model : 5
     17.Augmentation : 3
     18.Transfer Learning : 1
@@ -31,4 +31,4 @@ I reviewed the following topics:
     21.Human Pose Estimation : 3
     22.Visual Question Answering : 1
 
-🔥 Total 238 papers ! (2023.09.14)
+🔥 Total 239 papers ! (2023.09.15)
