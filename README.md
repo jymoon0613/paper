@@ -30,5 +30,6 @@ I reviewed the following topics:
     20.Point Cloud : 3
     21.Human Pose Estimation : 3
     22.Visual Question Answering : 1
+    23.Question Answering : 1
 
-🔥 Total 242 papers ! (2023.09.20)
+🔥 Total 243 papers ! (2023.09.21)
