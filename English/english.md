@@ -1,3 +1,7 @@
+### 2023.09.22
+* dysfunction: 기능 장애
+> <font size=1>In such cases, even a slight ***dysfunction*** of an ML/DL algorithm can have catastrophic consequences.</font>  
+
 ### 2023.09.07
 * impair: 손상시키다
 > <font size=1>Nevertheless, shallow features have less semantic information, which may ***impair*** the performance of small object detection.</font>  

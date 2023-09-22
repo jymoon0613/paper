@@ -31,5 +31,6 @@ I reviewed the following topics:
     21.Human Pose Estimation : 3
     22.Visual Question Answering : 1
     23.Question Answering : 1
+    24.Explainable Artificial Intelligence : 1
 
-🔥 Total 243 papers ! (2023.09.21)
+🔥 Total 244 papers ! (2023.09.22)
