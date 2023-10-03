@@ -9,7 +9,7 @@ The reviews were written in Korean.
 I reviewed the following topics:
 
     01.Recognition : 55
-    02.Detection : 54
+    02.Detection : 55
     03.Segmentation : 21
     04.Fine-Grained Visual Recognition : 23
     05.Self-Supervised Learning : 34
@@ -34,4 +34,4 @@ I reviewed the following topics:
     24.Explainable Artificial Intelligence : 1
     25.Lightweight : 1
 
-🔥 Total 249 papers ! (2023.10.02)
+🔥 Total 250 papers ! (2023.10.03)
