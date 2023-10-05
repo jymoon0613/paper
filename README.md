@@ -33,5 +33,6 @@ I reviewed the following topics:
     23.Question Answering : 1
     24.Explainable Artificial Intelligence : 1
     25.Lightweight : 1
+    26.Graph Representations : 1
 
-🔥 Total 250 papers ! (2023.10.03)
+🔥 Total 251 papers ! (2023.10.05)
