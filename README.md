@@ -16,7 +16,7 @@ I reviewed the following topics:
     06.Few-Shot Learning : 2
     07.Zero-Shot Learning : 5
     08.Generation : 11
-    09.Optimization and Normalization : 5
+    09.Optimization : 5
     10.Knowledge Distillation : 2
     11.NeRF : 1
     12.Weakly-Supervised Learning : 3
