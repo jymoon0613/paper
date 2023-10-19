@@ -31,7 +31,7 @@ I reviewed the following topics:
     21.Visual Question Answering : 1
     22.Question Answering : 1
     23.Explainable Artificial Intelligence : 1
-    24.Network Compression : 4
+    24.Network Compression : 5
     25.Graph Representations : 1
 
-🔥 Total 260 papers ! (2023.10.18)
+🔥 Total 261 papers ! (2023.10.19)
