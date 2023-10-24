@@ -18,7 +18,7 @@ I reviewed the following topics:
     08.Generation : 11
     09.Optimization : 10
     10.Knowledge Distillation : 2
-    11.Neural Representations : 1
+    11.Neural Representations : 2
     12.Weakly-Supervised Learning : 3
     13.Facial Expression Recognition : 12
     14.Semi-Supervised Learning : 1
@@ -34,4 +34,4 @@ I reviewed the following topics:
     24.Network Compression : 6
     25.Graph Representations : 1
 
-🔥 Total 263 papers ! (2023.10.23)
+🔥 Total 264 papers ! (2023.10.24)
