@@ -24,7 +24,7 @@ I reviewed the following topics:
     14.Semi-Supervised Learning : 1
     15.Domain Adaptation : 3
     16.Language Model : 6
-    17.Transfer Learning : 2
+    17.Transfer Learning : 3
     18.Long-Tailed Recognition : 1
     19.Point Cloud : 3
     20.Human Pose Estimation : 3
@@ -34,4 +34,4 @@ I reviewed the following topics:
     24.Network Compression : 6
     25.Graph Representations : 1
 
-🔥 Total 265 papers ! (2023.10.25)
+🔥 Total 266 papers ! (2023.10.26)
