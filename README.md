@@ -28,10 +28,10 @@ I reviewed the following topics:
     18.Long-Tailed Recognition : 1
     19.Point Cloud : 3
     20.Human Pose Estimation : 3
-    21.Visual Question Answering : 1
+    21.Vision-Language : 2
     22.Question Answering : 1
     23.Explainable Artificial Intelligence : 1
     24.Network Compression : 6
     25.Graph Representations : 1
 
-🔥 Total 266 papers ! (2023.10.26)
+🔥 Total 267 papers ! (2023.10.27)
