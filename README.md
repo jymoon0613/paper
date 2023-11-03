@@ -23,7 +23,7 @@ I reviewed the following topics:
     13.Facial Expression Recognition : 12
     14.Semi-Supervised Learning : 1
     15.Domain Adaptation : 3
-    16.Language Model : 6
+    16.Language Model : 7
     17.Transfer Learning : 3
     18.Long-Tailed Recognition : 1
     19.Point Cloud : 3
@@ -34,4 +34,4 @@ I reviewed the following topics:
     24.Network Compression : 5
     25.Graph Representations : 1
 
-🔥 Total 271 papers ! (2023.11.02)
+🔥 Total 272 papers ! (2023.11.03)
