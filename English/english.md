@@ -1,3 +1,7 @@
+### 2023.11.10
+* stationary: 변화 없는, (시계열 데이터에서) 시간이 지남에 따라 평균, 분산 등의 통계적 특성이 변하지 않는
+> <font size=1>Many real-world applications have ***non-stationary*** properties; that is, the underlying mechanism producing a series of measurements, changes over time.</font> 
+
 ### 2023.09.22
 * dysfunction: 기능 장애
 > <font size=1>In such cases, even a slight ***dysfunction*** of an ML/DL algorithm can have catastrophic consequences.</font>  
