@@ -32,8 +32,8 @@ I reviewed the following topics:
     22.Question Answering : 1
     23.Explainable Artificial Intelligence : 2
     24.Network Compression : 5
-    25.Graph Representations : 1
+    25.Graph Representations : 2
     26.Manufacturing : 3
     27.Time-Series Analysis : 1
 
-🔥 Total 277 papers ! (2023.11.10)
+🔥 Total 278 papers ! (2023.11.13)
