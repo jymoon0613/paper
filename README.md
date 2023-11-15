@@ -20,20 +20,18 @@ I reviewed the following topics:
     10.Knowledge Distillation : 2
     11.Neural Representations : 3
     12.Weakly-Supervised Learning : 3
-    13.Facial Expression Recognition : 12
+    13.Human-Centric Visual Task : 15
     14.Semi-Supervised Learning : 1
     15.Domain Adaptation : 3
     16.Language Model : 7
     17.Transfer Learning : 3
     18.Long-Tailed Recognition : 1
     19.Point Cloud : 3
-    20.Human Pose Estimation : 3
-    21.Vision-Language : 3
-    22.Question Answering : 1
-    23.Explainable Artificial Intelligence : 2
-    24.Network Compression : 5
-    25.Graph Representations : 2
-    26.Manufacturing : 3
-    27.Time-Series Analysis : 1
+    20.Vision-Language : 3
+    21.Question Answering : 1
+    22.Explainable Artificial Intelligence : 2
+    23.Network Compression : 5
+    24.Graph Representations : 2
+    25.Manufacturing : 4
 
 🔥 Total 280 papers ! (2023.11.15)
