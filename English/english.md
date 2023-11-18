@@ -1,3 +1,7 @@
+### 2023.11.18
+* harness: (그거의 힘을 사용하기 위해 무언가를) 제어하다, 사용하다
+> <font size=1>ViTPose can well ***harness*** the diverse data in different datasets.</font> 
+
 ### 2023.11.10
 * stationary: 변화 없는, (시계열 데이터에서) 시간이 지남에 따라 평균, 분산 등의 통계적 특성이 변하지 않는
 > <font size=1>Many real-world applications have ***non-stationary*** properties; that is, the underlying mechanism producing a series of measurements, changes over time.</font> 
