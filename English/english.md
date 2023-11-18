@@ -1,5 +1,5 @@
 ### 2023.11.18
-* harness: (그거의 힘을 사용하기 위해 무언가를) 제어하다, 사용하다
+* harness: (그것의 힘을 사용하기 위해 무언가를) 제어하다, 사용하다
 > <font size=1>ViTPose can well ***harness*** the diverse data in different datasets.</font> 
 
 ### 2023.11.10
