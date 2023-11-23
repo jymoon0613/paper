@@ -12,7 +12,7 @@ I reviewed the following topics:
     02.Detection : 54
     03.Segmentation : 21
     04.Fine-Grained Visual Recognition : 23
-    05.Self-Supervised Learning : 40
+    05.Self-Supervised Learning : 41
     06.Few-Shot Learning : 2
     07.Zero-Shot Learning : 5
     08.Generation : 11
@@ -34,4 +34,4 @@ I reviewed the following topics:
     24.Graph Representations : 2
     25.Manufacturing : 4
 
-🔥 Total 285 papers ! (2023.11.22)
+🔥 Total 286 papers ! (2023.11.23)
