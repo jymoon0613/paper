@@ -16,7 +16,7 @@ I reviewed the following topics:
     06.Few-Shot Learning : 2
     07.Zero-Shot Learning : 5
     08.Generation : 12
-    09.Optimization : 10
+    09.Optimization : 11
     10.Knowledge Distillation : 2
     11.Neural Representations : 3
     12.Weakly-Supervised Learning : 3
@@ -34,4 +34,4 @@ I reviewed the following topics:
     24.Graph Representations : 2
     25.Manufacturing : 4
 
-🔥 Total 289 papers ! (2023.11.29)
+🔥 Total 290 papers ! (2023.12.04)
