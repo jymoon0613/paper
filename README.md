@@ -19,7 +19,7 @@ I reviewed the following topics:
     09.Optimization : 11
     10.Knowledge Distillation : 2
     11.Neural Representations : 3
-    12.Weakly-Supervised Learning : 3
+    12.Weakly-Supervised Learning : 4
     13.Human-Centric Visual Task : 21
     14.Semi-Supervised Learning : 1
     15.Domain Adaptation : 5
@@ -34,4 +34,4 @@ I reviewed the following topics:
     24.Graph Representations : 2
     25.Manufacturing : 4
 
-🔥 Total 297 papers ! (2023.12.13)
+🔥 Total 298 papers ! (2023.12.14)
