@@ -4,7 +4,7 @@
 
 The reviews were written in Korean.
 
-*"There is no magic to achievement. It's really about hard work, choices, and persistence"* - Michelle Obama -
+> *"There is no magic to achievement. It's really about hard work, choices, and persistence" - Michelle Obama -*
 
 I reviewed the following topics:
 
@@ -34,4 +34,4 @@ I reviewed the following topics:
     24.Graph Representations : 2
     25.Manufacturing : 4
 
-🔥 Total 299 papers ! (2023.12.15)
+🔥 Total **299** papers ! (2023.12.15)
