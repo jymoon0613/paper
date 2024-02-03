@@ -15,7 +15,7 @@ I reviewed the following topics:
     05.Self-Supervised Learning : 43
     06.Few-Shot Learning : 2
     07.Zero-Shot Learning : 5
-    08.Generation : 13
+    08.Generation : 14
     09.Optimization : 11
     10.Knowledge Distillation : 2
     11.Neural Representations : 3
@@ -34,4 +34,4 @@ I reviewed the following topics:
     24.Graph Representations : 2
     25.Manufacturing : 4
 
-🔥 Total **302** papers ! (2023.12.20)
+🔥 Total **303** papers ! (2024.02.03)
