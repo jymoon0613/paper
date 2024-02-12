@@ -1,3 +1,7 @@
+### 2024.02.12
+* concise: 간결한
+> <font size=1>The MLLM learns to derive ***concise*** expressive instructions and offers explicit visual-related guidance.</font> 
+
 ### 2023.11.18
 * harness: (그것의 힘을 사용하기 위해 무언가를) 제어하다, 사용하다
 > <font size=1>ViTPose can well ***harness*** the diverse data in different datasets.</font> 
