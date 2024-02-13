@@ -27,11 +27,11 @@ I reviewed the following topics:
     17.Transfer Learning : 4
     18.Long-Tailed Recognition : 1
     19.Point Cloud : 3
-    20.Vision-Language : 6
+    20.Vision-Language : 7
     21.Question Answering : 1
     22.Explainable Artificial Intelligence : 2
     23.Network Compression : 5
     24.Graph Representations : 2
     25.Manufacturing : 4
 
-🔥 Total **306** papers ! (2024.02.12)
+🔥 Total **307** papers ! (2024.02.13)
