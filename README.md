@@ -8,7 +8,7 @@ The reviews were written in Korean.
 
 I reviewed the following topics:
 
-    01.Recognition : 56
+    01.Recognition : 57
     02.Detection : 55
     03.Segmentation : 21
     04.Fine-Grained Visual Recognition : 23
@@ -34,4 +34,4 @@ I reviewed the following topics:
     24.Graph Representations : 2
     25.Manufacturing : 4
 
-🔥 Total **307** papers ! (2024.02.13)
+🔥 Total **308** papers ! (2024.02.14)
