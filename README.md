@@ -23,7 +23,7 @@ I reviewed the following topics:
     13.Human-Centric Visual Task : 23
     14.Semi-Supervised Learning : 1
     15.Domain Adaptation : 5
-    16.Language Model : 9
+    16.Language Model : 10
     17.Transfer Learning : 4
     18.Long-Tailed Recognition : 1
     19.Point Cloud : 3
@@ -34,4 +34,4 @@ I reviewed the following topics:
     24.Graph Representations : 2
     25.Manufacturing : 4
 
-🔥 Total **311** papers ! (2024.02.19)
+🔥 Total **312** papers ! (2024.02.20)
