@@ -34,6 +34,6 @@ I reviewed the following topics:
     24.Graph Representations : 2
     25.Manufacturing : 4
     26.Object Counting : 1
-    27.Video Captioning
+    27.Video Captioning : 2
 
-🔥 Total **320** papers ! (2024.07.06)
+🔥 Total **321** papers ! (2024.07.12)
