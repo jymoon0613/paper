@@ -8,34 +8,30 @@ The reviews were written in Korean.
 
 I reviewed the following topics:
 
-    01.Recognition : 57
-    02.Detection : 56
-    03.Segmentation : 24
-    04.Fine-Grained Visual Recognition : 23
-    05.Self-Supervised Learning : 47
-    06.Few-Shot Learning : 2
-    07.Zero-Shot Learning : 5
-    08.Generation : 14
-    09.Optimization : 11
-    10.Knowledge Distillation : 2
-    11.Neural Representations : 3
-    12.Weakly-Supervised Learning : 5
-    13.Human-Centric Visual Task : 25
-    14.Semi-Supervised Learning : 1
-    15.Domain Adaptation : 5
-    16.Language Model : 12
-    17.Transfer Learning : 4
-    18.Long-Tailed Recognition : 1
+    01.Recognition : 92
+    02.Detection : 59
+    03.Segmentation : 25
+    04.Semi-Supervised Learning : 3
+    05.Weakly-Supervised Learning : 6
+    06.Self-Supervised Learning : 48
+    07.Transfer Learning : 4
+    08.Few-Shot Learning : 2
+    09.Zero-Shot Learning : 5
+    10.Generation : 16
+    11.Optimization : 11
+    12.Knowledge Distillation : 4
+    13.Domain Adaptation : 5
+    14.Network Compression : 5
+    15.Language Model : 12
+    16.Multi-Modal Language Model : 3
+    17.Image Captioning : 4
+    18.Video Captioning : 9
     19.Point Cloud : 3
-    20.Vision-Language : 12
-    21.Question Answering : 1
+    20.Neural Representations : 3
+    21.Question Answering : 3
     22.Explainable Artificial Intelligence : 2
-    23.Network Compression : 5
-    24.Graph Representations : 2
-    25.Manufacturing : 4
-    26.Object Counting : 1
-    27.Video Captioning : 7
-    28.Image Captioning : 3
-    29.Etc : 1
+    23.Pose Estimation : 6
+    24.Graph Representations : 3
+    25.Etc : 5
 
-🔥 Total **338** papers ! (2024.09.05)
+🔥 Total **338** papers ! (2024.09.19)
