@@ -8,8 +8,8 @@ The reviews were written in Korean.
 
 I reviewed the following topics:
 
-    01.Recognition : 92
-    02.Detection : 59
+    01.Recognition : 93
+    02.Detection : 60
     03.Segmentation : 25
     04.Semi-Supervised Learning : 3
     05.Weakly-Supervised Learning : 6
@@ -34,4 +34,4 @@ I reviewed the following topics:
     24.Graph Representations : 3
     25.Etc : 5
 
-🔥 Total **338** papers ! (2024.09.19)
+🔥 Total **340** papers ! (2024.19.19)
