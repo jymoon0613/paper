@@ -34,4 +34,4 @@ I reviewed the following topics:
     24.Graph Representations : 3
     25.Etc : 5
 
-🔥 Total **340** papers ! (2024.19.19)
+🔥 Total **340** papers ! (2024.11.19)
